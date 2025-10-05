@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.12.36](https://github.com/livekit/rust-sdks/compare/rust-sdks/livekit-ffi@0.12.35...rust-sdks/livekit-ffi@0.12.36) - 2025-10-05
+
+### Other
+
+- E2E audio test ([#724](https://github.com/livekit/rust-sdks/pull/724))
+- Bump reqwest to 0.12 ([#711](https://github.com/livekit/rust-sdks/pull/711))
+
 ## [0.12.35](https://github.com/livekit/rust-sdks/compare/rust-sdks/livekit-ffi@0.12.34...rust-sdks/livekit-ffi@0.12.35) - 2025-10-03
 
 ### Other

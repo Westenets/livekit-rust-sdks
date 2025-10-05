@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.7.21](https://github.com/livekit/rust-sdks/compare/rust-sdks/livekit@0.7.20...rust-sdks/livekit@0.7.21) - 2025-10-05
+
+### Other
+
+- E2E audio test ([#724](https://github.com/livekit/rust-sdks/pull/724))
+
 ## [0.7.20](https://github.com/livekit/rust-sdks/compare/rust-sdks/livekit@0.7.19...rust-sdks/livekit@0.7.20) - 2025-10-03
 
 ### Other

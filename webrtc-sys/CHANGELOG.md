@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.14](https://github.com/livekit/rust-sdks/compare/rust-sdks/webrtc-sys@0.3.13...rust-sdks/webrtc-sys@0.3.14) - 2025-10-05
+
+### Fixed
+
+- change search_dirs to use cc --print-search-dirs instead of clang --print-search-dirs ([#697](https://github.com/livekit/rust-sdks/pull/697))
+
+### Other
+
+- Enable buffer scaling ([#473](https://github.com/livekit/rust-sdks/pull/473))
+
 ## [0.3.13](https://github.com/livekit/rust-sdks/compare/rust-sdks/webrtc-sys@0.3.12...rust-sdks/webrtc-sys@0.3.13) - 2025-10-03
 
 ### Other
